@@ -36,4 +36,8 @@
 <div class="flex flex-col items-center">
     <button class="bg-slate-800 p-2 rounded text-white text-center w-40 hover:bg-slate-500" on:click={takeScreenchot}> Capture</button>
 </div>
+{#if imageCapture}
+    
 <img src={imageCapture} alt="screenshot"/>
+<p class="text-center">Right click or long press to save image</p>
+{/if}
