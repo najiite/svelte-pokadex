@@ -1,0 +1,90 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "immutable/start-53bf741f.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-31cb5493.js",
+      "_index-5c13590d.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/about.svelte",
+      "src/routes/index.svelte",
+      "src/routes/pokeman/[id].svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "immutable/pages/__layout.svelte-ca5bd52b.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-31cb5493.js"
+    ],
+    "css": [
+      "immutable/assets/__layout-a00a99b9.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "immutable/error.svelte-268b4942.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-31cb5493.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "immutable/pages/about.svelte-8689c780.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-31cb5493.js"
+    ],
+    "css": [
+      "immutable/assets/about-d9f676f5.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "immutable/pages/index.svelte-233d1f96.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-31cb5493.js",
+      "_index-5c13590d.js"
+    ],
+    "css": [
+      "immutable/assets/about-d9f676f5.css"
+    ]
+  },
+  "src/routes/pokeman/[id].svelte": {
+    "file": "immutable/pages/pokeman/_id_.svelte-a9fae309.js",
+    "src": "src/routes/pokeman/[id].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-31cb5493.js"
+    ]
+  },
+  "_index-31cb5493.js": {
+    "file": "immutable/chunks/index-31cb5493.js"
+  },
+  "_index-5c13590d.js": {
+    "file": "immutable/chunks/index-5c13590d.js",
+    "imports": [
+      "_index-31cb5493.js"
+    ]
+  },
+  "src/routes\\__layout.css": {
+    "file": "immutable/assets/__layout-a00a99b9.css",
+    "src": "src/routes\\__layout.css"
+  },
+  "about.css": {
+    "file": "immutable/assets/about-d9f676f5.css",
+    "src": "about.css"
+  }
+}
