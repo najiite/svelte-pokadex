@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-53bf741f.js",
+    "file": "immutable/start-766ff43b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -16,7 +16,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "immutable/pages/__layout.svelte-ca5bd52b.js",
+    "file": "immutable/pages/__layout.svelte-59a8932f.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -28,7 +28,7 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "immutable/error.svelte-268b4942.js",
+    "file": "immutable/error.svelte-fb4563e9.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -37,7 +37,7 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "immutable/pages/about.svelte-8689c780.js",
+    "file": "immutable/pages/about.svelte-18cc4b71.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -49,7 +49,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "immutable/pages/index.svelte-233d1f96.js",
+    "file": "immutable/pages/index.svelte-c3408e76.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -62,7 +62,7 @@
     ]
   },
   "src/routes/pokeman/[id].svelte": {
-    "file": "immutable/pages/pokeman/_id_.svelte-a9fae309.js",
+    "file": "immutable/pages/pokeman/_id_.svelte-1379be5f.js",
     "src": "src/routes/pokeman/[id].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
